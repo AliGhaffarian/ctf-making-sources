@@ -1,4 +1,4 @@
-flag="FLAGBOX{https://open.spotify.com/track/6Nx2v8RqzBZZicfvZStGep?si=8d60cb474c564139}"
+flag="CTM{https://open.spotify.com/track/6Nx2v8RqzBZZicfvZStGep?si=8d60cb474c564139}"
 read_fd=0
 buffer_name="buff"
 c_read_left=f"read({read_fd}, {buffer_name}, "
