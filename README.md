@@ -1,6 +1,6 @@
 links to my other challs:
 
-| challenge name | competition published | category  | link                                                                      |
+| challenge name | competition published in | category  | link                                                                      |
 |----------------|-----------------------|-----------|---------------------------------------------------------------------------|
 | circular-maze  | Nowruz1404            | crypto    | https://github.com/FlagMotori/Nowruz1404/blob/main/crypto/circular-maze   |
 | KaB            | Nowruz1404            | forensics | https://github.com/FlagMotori/Nowruz1404/blob/main/forensics/KaB          |
