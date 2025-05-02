@@ -1,4 +1,4 @@
-links to my other challs:
+**links to my other challs:**
 
 | challenge name | competition published in | category  | link                                                                      |
 |----------------|-----------------------|-----------|---------------------------------------------------------------------------|
